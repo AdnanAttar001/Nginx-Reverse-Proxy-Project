@@ -1,5 +1,5 @@
 # Nginx_Reverse_Proxy_Implementation
-![Logo](https://github.com/harshitsahu2311/Nginx-Reverse-Proxy-Project/blob/main/NGINX%20REVERSE%20PROXY.gif)
+
 ## Requirements
 1. Python 3.9
 2. Node.js
