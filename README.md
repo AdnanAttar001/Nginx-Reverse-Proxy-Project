@@ -1,6 +1,6 @@
 # Nginx_Reverse_Proxy_Implementation
 
-https://github.com/AdnanAttar001/Nginx-Reverse-Proxy-Project/blob/main/NGINX%20REVERSE%20PROXY.gif
+![Logo](https://github.com/AdnanAttar001/Nginx-Reverse-Proxy-Project/blob/main/NGINX%20REVERSE%20PROXY.gif)
 
 ## Requirements
 1. Python 3.9
